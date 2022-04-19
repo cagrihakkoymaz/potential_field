@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "kuartis_cpp_ws",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp",
+			"unordered_map": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"vector": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}

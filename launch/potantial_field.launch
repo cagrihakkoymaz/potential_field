@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<launch>
+    <arg name="rvizconfig" default="$(find potential_field)/rviz/potential.rviz" />
+  
+    <!-- map_server -->
+    <node pkg="map_server" name="map_server" type="map_server" output="screen" args="$(find potential_field)/maps/dummy-3.yaml"/>
+    
+    <!-- RViz -->
+    <node pkg="rviz" name="rviz" type="rviz" output="screen" args="-d $(arg rvizconfig)"/>
+    
+    <!-- Potential Field Planning Node -->
+    <node pkg="potential_field" name="potential_field_node" type="potential_field_node" output="screen" >
+    
+    <param name="ETA" value="1001"/>
+    <param name="KP" value="1"/>
+    <param name="distance_treshold" value="10"/>
+
+
+  </node>
+
+
+</launch>

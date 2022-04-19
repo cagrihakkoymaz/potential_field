@@ -77,7 +77,7 @@ copy potential_field file to
 
 -Potential field parameters added parameter server for controlling without compile
 
--Start PFP object as a Local variable using boost bind
+-Start PFP Class object as a Local variable and send to callback using boost bind
 
 -Publish converted to function
 

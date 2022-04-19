@@ -41,8 +41,9 @@ Basic hypotenus function used for calculate cost of distance to goal and multipl
 -Path
 
 
+![Potential Field drawio](https://user-images.githubusercontent.com/59797805/164067768-30166189-e215-4f93-b007-b592211c2596.png)
 
-[Potential Field.drawio.pdf](https://github.com/cagrihakkoymaz/potential_field/files/8515351/Potential.Field.drawio.pdf)
+
 
 
 

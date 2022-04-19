@@ -13,7 +13,7 @@
     
     <param name="ETA" value="1001"/>
     <param name="KP" value="1"/>
-    <param name="distance_treshold" value="10"/>
+    <param name="distance_treshold" value="5"/>
 
 
   </node>

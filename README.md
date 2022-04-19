@@ -7,6 +7,7 @@ At this porject potential field planning implention try to realised using ROS an
 
 At first understand the theory one can refer:
 http://www.cs.cmu.edu/~motionplanning/lecture/Chap4-Potential-Field_howie.pdf
+
 The most important part of the achive planning find the correct force functions for attraction and repulsion.
 
 

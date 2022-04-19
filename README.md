@@ -13,6 +13,7 @@ The most important part of the achive planning find the correct force functions 
 
 ### Implenmentation
 
+
 **Attraction force**
 
 Basic hypotenus function used for calculate cost of distance to goal and multipled with gain for adjustment
@@ -38,6 +39,11 @@ Basic hypotenus function used for calculate cost of distance to goal and multipl
 **OUTPUT**
 
 -Path
+
+
+
+[Potential Field.drawio.pdf](https://github.com/cagrihakkoymaz/potential_field/files/8515351/Potential.Field.drawio.pdf)
+
 
 
 **Installation**
